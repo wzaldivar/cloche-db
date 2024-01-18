@@ -32,3 +32,7 @@
 *.exe
 *.out
 *.app
+
+ext/deps
+ext/src/boost/bin.v2
+ext/src/boost/boost
